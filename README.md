@@ -16,8 +16,6 @@ Email: [roger_yang@outlook.com]
 LinkedIn: [https://www.linkedin.com/in/roger-y-a1b64949/]
 😄 Pronouns: He/Him
 
-⚡ Fun fact: When I'm not designing, you can find me exploring new materials or tinkering with old tech to see how it can be reimagined for modern applications!
-
 <!---
 PD-Roger/PD-Roger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
