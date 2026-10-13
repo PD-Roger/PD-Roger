@@ -70,8 +70,7 @@ If you're working on cutting-edge products, or exploring better ways to develop 
 
 - Email: roger_yang@outlook.com
 - LinkedIn: [roger-y-a1b64949](https://www.linkedin.com/in/roger-y-a1b64949/)
-
-😄 Pronouns: He/Him
+- 微信公众号：Roger硬件产品开发
 
 ---
 
