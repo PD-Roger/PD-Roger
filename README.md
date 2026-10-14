@@ -1,32 +1,130 @@
 # From Concept to Mass Production
 
-I'm @PD-Roger. Twenty-plus years in global manufacturing, mostly in hardware product development and mechanical engineering.
+Practical notes on hardware product development, manufacturing, and engineering leadership.
 
-I've run cross-functional teams through the whole arc of consumer electronics — concept, design validation, ramp-up, lifecycle support. Headsets, speakers, smart glasses, e-cigarettes, for brands you'd recognize.
+## About
 
-Technically, I come from mechanical design: DFM/DFA, FMEA, DOE, PPAP, tooling, injection molding, CP/CPK, GR&R, qualification, product validation. I've worked inside structured systems long enough to know where they help and where they just add meetings — APQP, IPD, gate reviews, design control, validation planning, production readiness. Most of the job is standing between design, engineering, manufacturing, quality, suppliers, and the customer, and keeping all of them pointed at the same shippable product.
+I'm @PD-Roger, a mechanical engineer with 20+ years of experience in global manufacturing and consumer electronics product development.
 
-Fluent in English, have worked overseas. SSBB, CMQ/OE, PMP. Dual Master's — Mechanical Engineering and MBA.
+I've worked across the complete product lifecycle — from early concepts and mechanical design to engineering validation, production ramp, and mass production.
 
-This repo is my working notes. Problems I've hit, methods that held up, and what I'd do differently next time. It follows a product from the first sketch to mass production.
+My experience includes products such as headsets, speakers, smart glasses, and other consumer electronics for global brands.
+
+My work focuses on bridging the gap between product design and manufacturing execution:
+
+- Mechanical Design & DFMA
+- NPI and Product Industrialization
+- Injection Molding & Tooling
+- Materials and Manufacturing Processes
+- FMEA, DOE, PPAP
+- SPC, CP/CPK, GR&R
+- Product Validation
+- Production Readiness
+
+Throughout my career, I've collaborated with industrial design, engineering, manufacturing, quality, suppliers, and program teams to deliver products that are manufacturable, reliable, and scalable.
+
+This repository is a collection of engineering notes, lessons learned, and practical methods from real product development projects.
+
+---
+
+## From Concept to Mass Production
+
+Hardware products move through many stages:
+
+```
+Concept
+  ↓
+Product Definition
+  ↓
+Product Design & DFMA
+  ↓
+Prototype Development
+  ↓
+EVT / DVT / PVT
+  ↓
+Tooling & Process Development & Qualification
+  ↓
+Production Ramp
+  ↓
+Mass Production
+```
+
+Each stage brings different engineering challenges. The goal is not only to create a great design, but to build a product that can be manufactured consistently at scale.
 
 ---
 
 ## Categories
 
-- **[01 · Product Development & Program Management](01-project-management/)** — APQP, NPI, risk management, program management
-- **[02 · Mechanical Design & DFMA](02-mechanical-design-dfma/)** — design fundamentals, DFM/DFA, part design
-- **[03 · Tooling, Molding & Materials](03-tooling-material/)** — injection molding, texture, gating, heat staking
-- **[04 · Process & Quality](04-process-quality/)** — CPK, PPAP, DOE, SPC
-- **[05 · Secondary Processes Development](05-secondary-process/)** — adhesives, PSA, painting
-- **[06 · Career](06-career-growth/)** — career development, interviews, management
-- **[07 · Notes & Reflections](07-life-thinking/)** — cost, innovation, learning
+### 01 · Product Development & Program Management
+
+APQP, NPI, risk management, product development processes, and cross-functional execution.
+
+[01-project-management](./01-project-management)
 
 ---
 
+### 02 · Mechanical Design & DFMA
+
+Mechanical design fundamentals, design optimization, tolerance, assembly, and manufacturability.
+
+[02-mechanical-design-dfma](./02-mechanical-design-dfma)
+
+---
+
+### 03 · Tooling, Molding & Materials
+
+Injection molding, tooling development, surface texture, gating, heat staking, and material selection.
+
+[03-tooling-material](./03-tooling-material)
+
+---
+
+### 04 · Process & Quality
+
+Process development, DOE, SPC, CPK, GR&R, PPAP, and manufacturing quality.
+
+[04-process-quality](./04-process-quality)
+
+---
+
+### 05 · Secondary Process Development
+
+Adhesives, PSA, painting, coating, and cosmetic process development.
+
+[05-secondary-process](./05-secondary-process)
+
+---
+
+### 06 · Career Development
+
+Engineering growth, leadership, interviews, and professional development.
+
+[06-career-growth](./06-career-growth)
+
+---
+
+### 07 · Notes & Reflections
+
+Thoughts on cost, innovation, engineering decisions, and continuous learning.
+
+[07-life-thinking](./07-life-thinking)
+
+---
+
+## Background
+
+- M.S. Mechanical Engineering
+- MBA
+- Six Sigma Black Belt
+- CMQ/OE
+- PMP
+
 ## Contact
 
-- Email: roger_yang@outlook.com
-- LinkedIn: [roger-y-a1b64949](https://www.linkedin.com/in/roger-y-a1b64949)
+Email: roger_yang@outlook.com
+
+LinkedIn: https://www.linkedin.com/in/npdroger/
+
+---
 
 > From concept to mass production — long, messy, and worth it.
