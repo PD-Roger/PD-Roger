@@ -18,6 +18,9 @@ I have worked on consumer electronics products including:
 - Speakers
 - Smart glasses
 - Connected devices
+- printer/cartridge
+- Power Charger
+- NTC Sensor
 
 Throughout my career, I have collaborated with industrial design, engineering, manufacturing, quality, suppliers, and global program teams to bring products from concept into production.
 
