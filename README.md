@@ -1,34 +1,104 @@
-# 从概念到量产 · From Concept to Mass Production
+# From Concept to Mass Production
 
-👋 我是 @PD-Roger，一名拥有 20+ 年经验的硬件产品开发经理人。
+Practical notes on hardware product development, manufacturing, and engineering leadership.
 
-这个仓库是我整理的工程笔记：踩过的坑、总结的方法，
-以及如果重来一次我会怎么做——从第一张草图，到最终量产。
+## About
 
-I'm a hardware product development manager with 20+ years of experience.
-This repository is my engineering notes: what I've learned, what I've broken,
-and what I'd do differently — from the first sketch to mass production.
+I'm @PD-Roger, a mechanical engineer with 20+ years of experience in global manufacturing and consumer electronics product development.
+
+I've worked across the complete product lifecycle — from early concepts and mechanical design to engineering validation, production ramp, and mass production.
+
+My experience includes products such as headsets, speakers, smart glasses, and other consumer electronics for global brands.
+
+My work focuses on bridging the gap between product design and manufacturing execution:
+
+- Mechanical Design & DFMA
+- NPI and Product Industrialization
+- Injection Molding & Tooling
+- Materials and Manufacturing Processes
+- FMEA, DOE, PPAP
+- SPC, CP/CPK, GR&R
+- Product Validation
+- Production Readiness
+
+Throughout my career, I've collaborated with industrial design, engineering, manufacturing, quality, suppliers, and program teams to deliver products that are manufacturable, reliable, and scalable.
+
+This repository is a collection of engineering notes, lessons learned, and practical methods from real product development projects.
 
 ---
 
-## 📂 内容分类 · Categories
+## From Concept to Mass Production
 
-- **[01 · 产品开发与项目管理](01-project-management/)** — APQP、NPI、风险管理、项目管理
-- **[02 · 结构设计与 DFMA](02-mechanical-design-dfma/)** — 结构基础、DFM/DFA、零件设计
-- **[03 · 注塑、模具与材料](03-tooling-material/)** — 注塑、晒纹、浇口、热铆
-- **[04 · 质量、工艺与制程](04-process-quality/)** — CPK、PPAP、DOE、SPC
-- **[05 · 工程材料与工艺](05-secondary-process/)** — 胶水、PSA、喷涂
-- **[06 · 职场与成长](06-career-growth/)** — 职业发展、面试、管理
-- **[07 · 工程人生与思考](07-life-thinking/)** — 成本、创新、学习、人生
+Hardware products move through many stages:
+
+```
+Concept
+  ↓
+Product Definition
+  ↓
+Product Design & DFMA
+  ↓
+Prototype Development
+  ↓
+EVT / DVT / PVT
+  ↓
+Tooling & Process Development & Qualification
+  ↓
+Production Ramp
+  ↓
+Mass Production
+```
+
+Each stage brings different engineering challenges. The goal is not only to create a great design, but to build a product that can be manufactured consistently at scale.
 
 ---
 
-## 📫 联系方式 · Contact
+## Categories
 
-- Email: roger_yang@outlook.com
-- LinkedIn: [roger-y-a1b64949](https://www.linkedin.com/in/roger-y-a1b64949)
-- 微信公众号：Roger硬件产品开发
+### [01 · Product Development & Program Management](./01-project-management)
 
-> 从概念到量产，是一条又长、又乱、但又很有成就感的路。
->
-> From concept to mass production — the long, messy, and rewarding path of building real products.
+APQP, NPI, risk management, product development processes, and cross-functional execution.
+
+### [02 · Mechanical Design & DFMA](./02-mechanical-design-dfma)
+
+Mechanical design fundamentals, design optimization, tolerance, assembly, and manufacturability.
+
+### [03 · Tooling, Molding & Materials](./03-tooling-material)
+
+Injection molding, tooling development, surface texture, gating, heat staking, and material selection.
+
+### [04 · Process & Quality](./04-process-quality)
+
+Process development, DOE, SPC, CPK, GR&R, PPAP, and manufacturing quality.
+
+### [05 · Secondary Process Development](./05-secondary-process)
+
+Adhesives, PSA, painting, coating, and cosmetic process development.
+
+### [06 · Career Development](./06-career-growth)
+
+Engineering growth, leadership, interviews, and professional development.
+
+### [07 · Notes & Reflections](./07-life-thinking)
+
+Thoughts on cost, innovation, engineering decisions, and continuous learning.
+
+---
+
+## Background
+
+- M.S. Mechanical Engineering
+- MBA
+- Six Sigma Black Belt
+- CMQ/OE
+- PMP
+
+## Contact
+
+Email: roger_yang@outlook.com
+
+LinkedIn: https://www.linkedin.com/in/npdroger/
+
+---
+
+> From concept to mass production — long, messy, and worth it.
