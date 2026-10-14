@@ -18,7 +18,7 @@ This repo is my working notes. Problems I've hit, methods that held up, and what
 - **[02 · Mechanical Design & DFMA](02-mechanical-design-dfma/)** — design fundamentals, DFM/DFA, part design
 - **[03 · Tooling, Molding & Materials](03-tooling-material/)** — injection molding, texture, gating, heat staking
 - **[04 · Process & Quality](04-process-quality/)** — CPK, PPAP, DOE, SPC
-- **[05 · Secondary Processes & Materials](05-secondary-process/)** — adhesives, PSA, painting
+- **[05 · Secondary Processes Development](05-secondary-process/)** — adhesives, PSA, painting
 - **[06 · Career](06-career-growth/)** — career development, interviews, management
 - **[07 · Notes & Reflections](07-life-thinking/)** — cost, innovation, learning
 
