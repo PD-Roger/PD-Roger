@@ -28,6 +28,5 @@ This repo is my working notes. Problems I've hit, methods that held up, and what
 
 - Email: roger_yang@outlook.com
 - LinkedIn: [roger-y-a1b64949](https://www.linkedin.com/in/roger-y-a1b64949)
-- WeChat: Roger硬件产品开发
 
 > From concept to mass production — long, messy, and worth it.
