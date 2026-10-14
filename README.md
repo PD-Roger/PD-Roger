@@ -1,6 +1,10 @@
+![Hardware Product Development Roadmap](./assets/Hardware-product-development-roadmap.png)
+
 # From Concept to Mass Production
 
-Practical notes on hardware product development, manufacturing, and engineering leadership.
+Practical engineering insights on building hardware products — from early concepts to global mass production.
+
+---
 
 ## About
 
@@ -25,31 +29,6 @@ Throughout my career, I've collaborated with industrial design, engineering, man
 
 This repository is a collection of engineering notes, lessons learned, and practical methods from real product development projects.
 
----
-
-## From Concept to Mass Production
-
-Hardware products move through many stages:
-
-```
-Concept
-  ↓
-Product Definition
-  ↓
-Product Design & DFMA
-  ↓
-Prototype Development
-  ↓
-EVT / DVT / PVT
-  ↓
-Tooling & Process Development & Qualification
-  ↓
-Production Ramp
-  ↓
-Mass Production
-```
-
-Each stage brings different engineering challenges. The goal is not only to create a great design, but to build a product that can be manufactured consistently at scale.
 
 ---
 
