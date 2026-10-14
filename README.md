@@ -1,34 +1,33 @@
-# 从概念到量产 · From Concept to Mass Production
+# From Concept to Mass Production
 
-👋 我是 @PD-Roger，一名拥有 20+ 年经验的硬件产品开发经理人。
+I'm @PD-Roger. Twenty-plus years in global manufacturing, mostly in hardware product development and mechanical engineering.
 
-这个仓库是我整理的工程笔记：踩过的坑、总结的方法，
-以及如果重来一次我会怎么做——从第一张草图，到最终量产。
+I've run cross-functional teams through the whole arc of consumer electronics — concept, design validation, ramp-up, lifecycle support. Headsets, speakers, smart glasses, e-cigarettes, for brands you'd recognize.
 
-I'm a hardware product development manager with 20+ years of experience.
-This repository is my engineering notes: what I've learned, what I've broken,
-and what I'd do differently — from the first sketch to mass production.
+Technically, I come from mechanical design: DFM/DFA, FMEA, DOE, PPAP, tooling, injection molding, CP/CPK, GR&R, qualification, product validation. I've worked inside structured systems long enough to know where they help and where they just add meetings — APQP, IPD, gate reviews, design control, validation planning, production readiness. Most of the job is standing between design, engineering, manufacturing, quality, suppliers, and the customer, and keeping all of them pointed at the same shippable product.
 
----
+Fluent in English, have worked overseas. SSBB, CMQ/OE, PMP. Dual Master's — Mechanical Engineering and MBA.
 
-## 📂 内容分类 · Categories
-
-- **[01 · 产品开发与项目管理](01-project-management/)** — APQP、NPI、风险管理、项目管理
-- **[02 · 结构设计与 DFMA](02-mechanical-design-dfma/)** — 结构基础、DFM/DFA、零件设计
-- **[03 · 注塑、模具与材料](03-tooling-material/)** — 注塑、晒纹、浇口、热铆
-- **[04 · 质量、工艺与制程](04-process-quality/)** — CPK、PPAP、DOE、SPC
-- **[05 · 工程材料与工艺](05-secondary-process/)** — 胶水、PSA、喷涂
-- **[06 · 职场与成长](06-career-growth/)** — 职业发展、面试、管理
-- **[07 · 工程人生与思考](07-life-thinking/)** — 成本、创新、学习、人生
+This repo is my working notes. Problems I've hit, methods that held up, and what I'd do differently next time. It follows a product from the first sketch to mass production.
 
 ---
 
-## 📫 联系方式 · Contact
+## Categories
+
+- **[01 · Product Development & Program Management](01-project-management/)** — APQP, NPI, risk management, program management
+- **[02 · Mechanical Design & DFMA](02-mechanical-design-dfma/)** — design fundamentals, DFM/DFA, part design
+- **[03 · Tooling, Molding & Materials](03-tooling-material/)** — injection molding, texture, gating, heat staking
+- **[04 · Process & Quality](04-process-quality/)** — CPK, PPAP, DOE, SPC
+- **[05 · Secondary Processes & Materials](05-secondary-process/)** — adhesives, PSA, painting
+- **[06 · Career](06-career-growth/)** — career development, interviews, management
+- **[07 · Notes & Reflections](07-life-thinking/)** — cost, innovation, learning
+
+---
+
+## Contact
 
 - Email: roger_yang@outlook.com
 - LinkedIn: [roger-y-a1b64949](https://www.linkedin.com/in/roger-y-a1b64949)
-- 微信公众号：Roger硬件产品开发
+- WeChat: Roger硬件产品开发
 
-> 从概念到量产，是一条又长、又乱、但又很有成就感的路。
->
-> From concept to mass production — the long, messy, and rewarding path of building real products.
+> From concept to mass production — long, messy, and worth it.
