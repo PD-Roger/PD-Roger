@@ -1,42 +1,45 @@
 # 从概念到量产 · From Concept to Mass Production
 
-👋 你好，我是 @PD-Roger
+👋 我是 @PD-Roger，一名有 20+ 年经验的硬件产品开发经理人。
 
-我是一名硬件产品开发经理人，有 20 多年硬件消费电子类产品的开发设计经验，在外企负责产品从概念到量产的完整开发过程。
+这个仓库是我整理的工程笔记：踩过的坑、总结的方法，
+以及如果重来一次我会怎么做——从第一张草图，到最终量产。
 
-这些年我主导并参与消费电子产品的开发，覆盖结构设计、模具、新产品开发（NPD）、新产品导入（NPI）、DFMA 与材料选型，把复杂的产品挑战，转化成可落地、可制造、可量产的方案。
-
-这个仓库是我整理的工程笔记：踩过的坑、总结的方法，以及如果重来一次我会怎么做——从第一张草图，到最终量产。
-
-I'm a hardware product development manager with 20+ years of experience in hardware consumer electronics, working at a multinational and responsible for taking products from concept all the way to mass production.
-
-Over the years, I've led and contributed to consumer electronics development across structure design, tooling, NPD, NPI, DFMA, and material selection — turning complex product challenges into solutions that are buildable, manufacturable, and ready for mass production.
-
-This repository is where I keep my engineering notes: what I've learned, what I've broken, and what I'd do differently — from the first sketch to mass production.
+I'm a hardware product development manager with 20+ years of experience.
+This repository is my engineering notes: what I've learned, what I've broken,
+and what I'd do differently — from the first sketch to mass production.
 
 ---
 
-## 📫 联系方式 · How to Reach Me
+## 📂 内容分类 · Categories
+
+| 分类 | 说明 |
+|------|------|
+| [01 · 产品开发与项目管理](01-project-management/) | APQP、NPI、风险管理、项目管理 |
+| [02 · 结构设计与 DFMA](02-structure-dfma/) | 结构基础、DFM/DFA、零件设计 |
+| [03 · 注塑、模具与材料](03-tooling-material/) | 注塑、晒纹、浇口、热铆 |
+| [04 · 质量、工艺与制程](04-quality-process/) | CPK、PPAP、DOE、SPC |
+| [05 · 工程材料与工艺](05-material-process/) | 胶水、PSA、喷涂 |
+| [06 · 职场与成长](06-career-growth/) | 职业发展、面试、管理 |
+| [07 · 工程人生与思考](07-life-thinking/) | 成本、创新、学习、人生 |
+
+---
+
+## 📚 精选文章 · Featured
+
+- [不懂APQP，你还敢谈新产品开发？](01-project-management/if-you-dont-know-apqp.md)
+- [结构设计基础（上）](02-structure-dfma/structure-design-basics-part1.md)
+- [注塑零件的质量，取决于五个重要因素](03-tooling-material/5-factors-of-injection-quality.md)
+- [CPK不是KP！](04-quality-process/cpk-is-not-kp.md)
+- [一个结构工程师的20年](06-career-growth/20-years-as-a-structure-engineer.md)
+
+---
+
+## 📫 联系方式 · Contact
 
 - Email: roger_yang@outlook.com
-- LinkedIn: [roger-y-a1b64949](https://www.linkedin.com/in/roger-y-a1b64949/)
+- LinkedIn: roger-y-a1b64949
 - 微信公众号：Roger硬件产品开发
-
----
-
-## 📝 关于这个仓库 · About This Repository
-
-这里是我 20 多年硬件消费电子产品开发设计的工程笔记。
-
-计划覆盖的内容：
-
-- 产品开发流程与管理 — Product development process & management
-- 结构设计 / 机械设计笔记 — Structure & mechanical design notes
-- 模具与注塑经验 — Tooling & injection molding lessons
-- NPD / NPI 流程笔记 — NPD & NPI process notes
-- DFMA 实践 — DFMA practices
-- 材料与制造取舍 — Materials & manufacturing trade-offs
-- 踩坑记录、检查清单与经验总结 — Pitfalls, checklists, and lessons learned
 
 > 从概念到量产，是一条又长、又乱、但又很有成就感的路。
 >
