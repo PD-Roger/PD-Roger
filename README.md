@@ -55,59 +55,33 @@ Each stage brings different engineering challenges. The goal is not only to crea
 
 ## Categories
 
-### 01 · Product Development & Program Management
+### [01 · Product Development & Program Management](./01-project-management)
 
 APQP, NPI, risk management, product development processes, and cross-functional execution.
 
-[01-project-management](./01-project-management)
-
----
-
-### 02 · Mechanical Design & DFMA
+### [02 · Mechanical Design & DFMA](./02-mechanical-design-dfma)
 
 Mechanical design fundamentals, design optimization, tolerance, assembly, and manufacturability.
 
-[02-mechanical-design-dfma](./02-mechanical-design-dfma)
-
----
-
-### 03 · Tooling, Molding & Materials
+### [03 · Tooling, Molding & Materials](./03-tooling-material)
 
 Injection molding, tooling development, surface texture, gating, heat staking, and material selection.
 
-[03-tooling-material](./03-tooling-material)
-
----
-
-### 04 · Process & Quality
+### [04 · Process & Quality](./04-process-quality)
 
 Process development, DOE, SPC, CPK, GR&R, PPAP, and manufacturing quality.
 
-[04-process-quality](./04-process-quality)
-
----
-
-### 05 · Secondary Process Development
+### [05 · Secondary Process Development](./05-secondary-process)
 
 Adhesives, PSA, painting, coating, and cosmetic process development.
 
-[05-secondary-process](./05-secondary-process)
-
----
-
-### 06 · Career Development
+### [06 · Career Development](./06-career-growth)
 
 Engineering growth, leadership, interviews, and professional development.
 
-[06-career-growth](./06-career-growth)
-
----
-
-### 07 · Notes & Reflections
+### [07 · Notes & Reflections](./07-life-thinking)
 
 Thoughts on cost, innovation, engineering decisions, and continuous learning.
-
-[07-life-thinking](./07-life-thinking)
 
 ---
 
